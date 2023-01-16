@@ -685,8 +685,8 @@ a {
   }
 }
 
-/* @media screen and (max-width: 1199px) {
-  .email-area {
+@media screen and (max-width: 1199px) {
+  .modal {
     width: 95%;
     max-width: 450px;
     height: 95%;
@@ -695,11 +695,12 @@ a {
   }
 }
 @media screen and (min-width: 1200px) {
-  .email-area {
+  .modal {
     width: 528px;
     height: 581px;
   }
-} */
+}
+
 @media screen and (min-width: 428px) and (max-width: 767px) {
   .email-area {
     min-width: 396px;
