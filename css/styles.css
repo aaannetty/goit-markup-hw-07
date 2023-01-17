@@ -2330,6 +2330,7 @@ a {
 .mobile-menu {
   padding: 0;
   margin: 0;
+  margin-bottom: auto;
   list-style: none;
 }
 
@@ -2386,7 +2387,7 @@ a {
   gap: 56px;
 }
 
-.mobole-menu-contant {
-  display: block;
+.mobile-menu-contant {
+  display: flex;
   flex-direction: column;
 }
